@@ -1,0 +1,71 @@
+Tasks
+
+1. KNN class
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+2. train_test_split
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+3. Loss functions
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+4. Cross Validation
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+5. Picking dataset
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+6. Plotting
+
+Who:
+
+What: 
+
+When
+
+Time:
+
+7. Reports
+
+Who:
+
+What: 
+
+When
+
+Time:
